@@ -1,2 +1,2 @@
 # first-repo
-Repository is a place where versions of a project are stored.
+Hi! This is Manasa Akula, currently pursuing masters in Computer Science.
